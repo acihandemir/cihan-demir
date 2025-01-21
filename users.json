@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+            "username": "demir12",
+            "password": "gAAAAABnXDKqM_ORGL4PButLDzsVUgf8g2S0o7NidlPF6vpqapcnLfNPUFgDp2cE7fn5PqapTANIEICmHqRLrryfUAVmCBRJ9w==",
+            "role": "user",
+            "team": "demirler"
+        },
+        {
+            "username": "mustafa",
+            "password": "gAAAAABnXDODHHkJ2rIspd7yBd-EYKHy3aLmwpevoeY-egCitG2bkcnnZTVsbINbLEgghBFY0Nq39hpcbB-NGabWhAwLD8IOLw==",
+            "role": "user"
+        },
+        {
+            "username": "demirs",
+            "password": "gAAAAABnXDfRMhfIeTMVcnCLRaKpeLdKkirsYXXWcarQMzp4O7EJr5XnSaWtY7dRQzQ_YGaiAiNLh0aPCaT8Gi0nyKYK3axV_Q==",
+            "role": "user",
+            "team": "javaekip"
+        },
+        {
+            "username": "admin1",
+            "password": "gAAAAABnXDfRMhfIeTMVcnCLRaKpeLdKkirsYXXWcarQMzp4O7EJr5XnSaWtY7dRQzQ_YGaiAiNLh0aPCaT8Gi0nyKYK3axV_Q==",
+            "role": "admin"
+        },
+        {
+            "username": "demirss",
+            "password": "gAAAAABnXX3XQLJPlTOKwys0tSqfbp-NHC3GNKr-7GCzDuYYtFbZwA0V16aTGhOTmlsvua1CPGwGvS1EEJCuBA55aD30-G9RDA==",
+            "role": "user"
+        },
+        {
+            "username": "demirsc",
+            "password": "gAAAAABnXY66_ifZ0_qKvLY8tUwB5VrxkBYSydmbXFBb1XU0TcW7xfU3Gfb7G8RZ8e1HqPvX7OmrcHfGhvU9DvvHvQsUV7zqSA==",
+            "role": "user",
+            "team": "s"
+        },
+        {
+            "username": "f",
+            "password": "gAAAAABnXZSm3DNry4042EamuyebHGmMmdp7bluvBP80w4rlugERKwpAuV9zgoo8hCE_inEDjO1KUPqbcFjiDyesaCTQ05jXGQ==",
+            "role": "user",
+            "team": "d"
+        },
+        {
+            "username": "mehmetuz",
+            "password": "gAAAAABnYyUg08YbBy-eQY-dhBhRwE3msR2v3snS41ekcOJbEqSERCkbQnLKkWuJf5fJ6SxQqVDS3a9CJrKq6PZIt51mGXWWXw==",
+            "role": "user",
+            "team": "genel"
+        },
+        {
+            "username": "12",
+            "password": "gAAAAABnYyesOhk99k2rDuNORaam04fR2odNY0LmyExIV0Fq1KNgiE7OYUxYgW5jQoNpi5Yoyg-E2lWhsaY8BY3ZMZLAGEKPkw==",
+            "role": "user",
+            "team": "s"
+        },
+        {
+            "username": "s",
+            "password": "gAAAAABnap7ZAIVemmooihlGGir7eseDfMSRTHjnwQa9yaayc6--PTbgNwW9N0iGrz7pCbUKZ5BgoC8BkFspYTzS1bd0wXMnJA==",
+            "role": "user"
+        }
+    ]
+}

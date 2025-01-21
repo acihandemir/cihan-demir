@@ -1,0 +1,285 @@
+[2024-12-26 16:06:37] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:06:40] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:06:42] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:06:44] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:06:46] s giris yapti.
+[2024-12-26 16:06:48] s cikis yapti.
+[2024-12-26 16:12:14] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:12:19] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:12:21] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:12:22] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:12:24] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:24] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:26] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:27] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:29] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:30] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:32] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:33] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:35] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:36] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:38] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:40] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:41] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:47] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:16:52] demirsc giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-26 16:28:17] admin1 giris yapti.
+[2024-12-27 14:45:35] s giris yapti.
+[2024-12-27 14:45:59] s giris yapti.
+[2024-12-27 14:46:03] s cikis yapti.
+[2024-12-27 14:46:09] s giris yapti.
+[2024-12-27 14:46:10] s cikis yapti.
+[2024-12-27 14:47:10] s giris yapti.
+[2024-12-27 14:47:21] s giris yapti.
+[2024-12-27 14:48:11] admin1 giris yapti.
+[2024-12-27 14:48:41] admin1 giris yapti.
+[2024-12-27 14:49:18] admin1 giris yapti.
+[2024-12-27 14:49:52] s giris yapti.
+[2024-12-27 14:49:55] s cikis yapti.
+[2024-12-27 14:50:02] admin1 giris yapti.
+[2024-12-27 14:53:35] admin1 giris yapti.
+[2024-12-27 14:53:36] admin1 cikis yapti.
+[2024-12-27 14:55:12] s giris yapti.
+[2024-12-27 14:55:25] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-27 14:55:27] s giris yapti.
+[2024-12-27 15:00:55] s giris yapti.
+[2024-12-27 15:01:57] s giris yapti.
+[2024-12-27 15:03:20] s giris yapti.
+[2024-12-27 15:06:12] admin1 giris yapti.
+[2024-12-27 15:10:10] admin1 giris yapti.
+[2024-12-27 15:10:24] admin1 giris yapti.
+[2024-12-27 15:10:56] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-27 15:10:57] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-27 15:10:59] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-27 15:11:01] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-27 15:11:02] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-27 15:11:04] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-27 15:11:06] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-27 15:11:08] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-27 15:11:25] admin1 giris yapti.
+[2024-12-27 15:16:46] admin1 giris yapti.
+[2024-12-27 15:17:54] admin1 giris yapti.
+[2024-12-27 15:33:06] admin1 giris yapti.
+[2024-12-27 15:34:45] admin1 giris yapti.
+[2024-12-27 15:34:52] Kullanï¿½cï¿½ verileri data/users.json dosyasï¿½na kaydedildi.
+[2024-12-27 15:34:52] Yeni kullanï¿½cï¿½ oluï¿½turuldu: admin2, rol: admin.
+[2024-12-27 15:37:39] Kullanï¿½cï¿½ verileri data/users.json dosyasï¿½na kaydedildi.
+[2024-12-27 15:37:39] Yeni kullanï¿½cï¿½ oluï¿½turuldu: a, rol: user.
+[2024-12-27 15:37:47] a giris yapti.
+[2024-12-27 15:37:55] a kullanï¿½cï¿½ adï¿½ aw olarak deï¿½iï¿½tirildi.
+[2024-12-27 15:37:55] Kullanï¿½cï¿½ verileri data/users.json dosyasï¿½na kaydedildi.
+[2024-12-27 15:38:01] aw giris yapti.
+[2024-12-27 15:38:19] admin2 giris yapti.
+[2024-12-27 15:38:48] Kullanï¿½cï¿½ verileri data/users.json dosyasï¿½na kaydedildi.
+[2024-12-27 15:38:48] Yeni kullanï¿½cï¿½ oluï¿½turuldu: admin3, rol: admin.
+[2024-12-27 15:39:02] aw giris yapti.
+[2024-12-27 15:39:27] aw kullanï¿½cï¿½sï¿½ harfler takï¿½mï¿½na atandï¿½.
+[2024-12-27 15:39:27] Kullanï¿½cï¿½ verileri data/users.json dosyasï¿½na kaydedildi.
+[2024-12-27 15:39:27] Kullanï¿½cï¿½ verileri data/users.json dosyasï¿½na kaydedildi.
+[2024-12-27 15:39:27] s kullanï¿½cï¿½sï¿½ harfler takï¿½mï¿½na user rolï¿½yle atandï¿½.
+[2024-12-27 15:40:29] admin3 giris yapti.
+[2024-12-27 15:41:37] admin3 cikis yapti.
+[2024-12-27 15:54:55] s giris yapti.
+[2024-12-27 15:55:37] s giris yapti.
+[2024-12-28 15:05:20] s giris yapti.
+[2024-12-28 15:05:42] s giris yapti.
+[2024-12-28 15:06:06] admin1 giris yapti.
+[2024-12-28 15:06:24] admin1 cikis yapti.
+[2024-12-28 15:06:28] s giris yapti.
+[2024-12-28 15:14:22] admin2 giris yapti.
+[2024-12-28 15:16:44] s giris yapti.
+[2024-12-28 15:17:30] admin1 giris yapti.
+[2024-12-28 15:17:45] admin1 cikis yapti.
+[2024-12-28 15:17:51] s giris yapti.
+[2024-12-28 15:18:05] admin1 giris yapti.
+[2024-12-28 15:18:23] admin1 giris yapti.
+[2024-12-28 15:18:44] admin2 giris yapti.
+[2024-12-28 15:20:07] s giris yapti.
+[2024-12-28 15:20:28] admin1 giris yapti.
+[2024-12-28 15:20:39] admin1 giris yapti.
+[2024-12-28 15:22:21] admin1 giris yapti.
+[2024-12-28 15:22:37] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-28 15:22:41] s giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-28 15:22:45] s giris yapti.
+[2024-12-28 15:26:49] admin1 giris yapti.
+[2024-12-28 15:29:16] s giris yapti.
+[2024-12-28 15:30:00] aw giris yapti.
+[2024-12-28 16:07:19] s giris yapti.
+[2024-12-28 16:11:41] s giris yapti.
+[2024-12-28 16:12:10] s giris yapti.
+[2024-12-28 16:12:18] s cikis yapti.
+[2024-12-28 16:12:27] admin1 giris yapti.
+[2024-12-28 17:56:00] sa giris yapmayi denedi ancak basarisiz oldu.
+[2024-12-28 17:56:04] s giris yapti.
+[2024-12-28 18:05:01] s giris yapti.
+[2024-12-28 18:06:23] s giris yapti.
+[2024-12-28 18:06:57] s giris yapti.
+[2024-12-28 18:09:24] s giris yapti.
+[2024-12-28 18:16:13] s giris yapti.
+[2024-12-28 18:16:27] s cikis yapti.
+[2024-12-28 18:20:58] s giris yapti.
+[2024-12-28 18:21:34] s giris yapti.
+[2024-12-28 18:23:15] s giris yapti.
+[2024-12-28 18:24:05] admin1 giris yapti.
+[2024-12-28 18:24:46] admin1 giris yapti.
+[2024-12-28 18:31:28] s giris yapti.
+[2024-12-28 18:43:57] s giris yapti.
+[2024-12-28 18:49:31] s giris yapti.
+[2024-12-28 18:55:21] s giris yapti.
+[2024-12-28 18:56:05] s giris yapti.
+[2024-12-28 18:58:36] s giris yapti.
+[2024-12-28 19:02:01] s giris yapti.
+[2024-12-28 19:03:52] s giris yapti.
+[2024-12-28 19:04:00] s giris yapti.
+[2024-12-29 13:48:56] s giris yapti.
+[2024-12-29 13:50:43] admin1 giris yapti.
+[2024-12-29 13:55:15] admin1 giris yapti.
+[2024-12-29 13:55:33] admin1 cikis yapti.
+[2024-12-29 13:55:53] s giris yapti.
+[2024-12-29 13:56:17] admin1 giris yapti.
+[2024-12-29 13:56:45] Kullanï¿½cï¿½ verileri data/users.json dosyasï¿½na kaydedildi.
+[2024-12-29 13:56:45] Yeni kullanï¿½cï¿½ oluï¿½turuldu: , rol: admin.
+[2024-12-29 14:00:48] admin1 giris yapti.
+[2024-12-29 14:02:35] admin1 giris yapti.
+[2024-12-29 14:02:48] admin1 cikis yapti.
+[2024-12-29 14:02:52] aw giris yapti.
+[2024-12-29 14:03:11] admin1 giris yapti.
+[2024-12-29 14:04:43] admin1 giris yapti.
+[2024-12-29 14:07:02] admin1 giris yapti.
+[2024-12-29 14:13:05] admin1 giris yapti.
+[2024-12-29 14:13:54] admin1 giris yapti.
+[2024-12-29 14:15:56] admin1 giris yapti.
+[2024-12-29 14:18:19] s giris yapti.
+[2024-12-29 14:18:50] s giris yapti.
+[2024-12-29 14:19:08] admin1 giris yapti.
+[2024-12-29 14:21:20] admin1 giris yapti.
+[2024-12-29 14:22:46] admin1 giris yapti.
+[2024-12-29 14:38:09] Kullanï¿½cï¿½ verileri data/users.json dosyasï¿½na kaydedildi.
+[2024-12-29 14:38:09] Yeni kullanï¿½cï¿½ oluï¿½turuldu: cihandemir, rol: user.
+[2024-12-29 14:38:18] cihandemir giris yapti.
+[2024-12-29 14:39:36] cihandemir giris yapti.
+[2024-12-29 14:40:02] admin1 giris yapti.
+[2024-12-29 14:41:24] admin1 giris yapti.
+[2024-12-29 14:43:55] admin1 giris yapti.
+[2024-12-29 14:44:29] admin1 giris yapti.
+[2024-12-29 14:45:06] admin1 giris yapti.
+[2024-12-29 14:45:28] admin1 giris yapti.
+[2024-12-29 14:46:38] admin1 giris yapti.
+[2024-12-29 14:47:05] admin1 giris yapti.
+[2024-12-29 14:48:24] admin1 giris yapti.
+[2024-12-29 14:48:35] admin1 giris yapti.
+[2024-12-29 14:51:46] admin1 giris yapti.
+[2024-12-29 14:53:28] s giris yapti.
+[2024-12-29 14:56:29] s giris yapti.
+[2024-12-29 14:59:08] s giris yapti.
+[2024-12-29 14:59:24] s giris yapti.
+[2024-12-29 15:04:53] s giris yapti.
+[2024-12-29 15:05:28] s giris yapti.
+[2024-12-29 15:07:05] s giris yapti.
+[2024-12-29 15:10:23] s giris yapti.
+[2024-12-29 15:11:20] s giris yapti.
+[2024-12-29 15:18:34] s giris yapti.
+[2024-12-29 15:18:55] Baï¿½arï¿½lï¿½: s kullanï¿½cï¿½sï¿½, helloworld.txt dosyasï¿½nï¿½ yï¿½kledi.
+[2024-12-29 15:18:59] s cikis yapti.
+[2024-12-29 15:19:07] admin1 giris yapti.
+[2024-12-29 15:19:35] admin1 cikis yapti.
+[2024-12-29 15:21:00] s giris yapti.
+[2024-12-29 15:21:10] Hata: s kullanï¿½cï¿½sï¿½ ï¿½ifre sï¿½fï¿½rlama giriï¿½imi baï¿½arï¿½sï¿½z oldu.
+[2024-12-29 15:21:18] admin1 giris yapti.
+[2024-12-29 15:22:03] s giris yapti.
+[2024-12-29 15:22:08] Hata: s kullanï¿½cï¿½sï¿½ ï¿½ifre sï¿½fï¿½rlama giriï¿½imi baï¿½arï¿½sï¿½z oldu.
+[2024-12-29 15:22:09] s cikis yapti.
+[2024-12-29 15:27:30] s giris yapti.
+[2024-12-29 15:27:38] Baï¿½arï¿½lï¿½: s kullanï¿½cï¿½sï¿½, helloworld.txt dosyasï¿½nï¿½ yï¿½kledi.
+[2024-12-29 15:27:51] Hata: s kullanï¿½cï¿½sï¿½, aslan kal.zip adlï¿½ dosyayï¿½ yï¿½klemeye ï¿½alï¿½ï¿½tï¿½, ancak dosya boyutu ï¿½ok bï¿½yï¿½k.
+
+[2024-12-29 15:39:48] Backup started.
+[2024-12-29 15:39:48] Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+[2024-12-29 15:39:48] File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\aw.
+[2024-12-29 15:39:48] Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+[2024-12-29 15:39:48] File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\harfler.
+[2024-12-29 15:39:48] File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\harfler.
+[2024-12-29 15:39:48] Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+[2024-12-29 15:39:48] File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+[2024-12-29 15:39:48] File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+[2024-12-29 15:39:48] File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+[2024-12-29 15:39:48] File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+[2024-12-29 15:39:48] File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+[2024-12-29 15:39:48] File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+[2024-12-29 15:39:48] Backup completed.
+[2024-12-29 16:50:37] s giris yapti.
+[2024-12-29 16:50:50] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2024-12-29 16:50:51] s cikis yapti.
+[2024-12-29 16:51:00] admin1 giris yapti.
+[2024-12-29 16:51:17] admin1 cikis yapti.
+[2024-12-29 16:52:25] admin1 giris yapti.
+[2024-12-29 16:54:04] admin1 giris yapti.
+[2024-12-29 16:55:19] s giris yapti.
+[2024-12-29 16:55:22] s cikis yapti.
+[2024-12-29 16:55:29] admin1 giris yapti.
+[2024-12-29 17:00:20] admin1 giris yapti.
+[2024-12-29 17:01:15] admin1 giris yapti.
+[2024-12-29 17:01:52] admin1 giris yapti.
+[2024-12-30 19:39:18] s giris yapti.
+[2024-12-30 19:40:56] s giris yapti.
+[2024-12-30 19:41:02] s cikis yapti.
+[2024-12-30 19:41:08] s giris yapti.
+[2024-12-30 19:41:09] s cikis yapti.
+[2024-12-30 19:41:12] s giris yapti.
+[2024-12-30 19:41:13] s cikis yapti.
+[2024-12-30 19:41:47] s giris yapti.
+[2024-12-30 19:42:22] s giris yapti.
+[2024-12-30 19:42:24] s cikis yapti.
+[2024-12-30 19:42:40] s giris yapti.
+[2024-12-30 19:43:14] s cikis yapti.
+[2024-12-30 19:43:21] s giris yapti.
+[2024-12-30 19:44:31] s giris yapti.
+[2024-12-30 19:45:02] s cikis yapti.
+[2024-12-30 19:45:05] s giris yapti.
+[2024-12-30 19:46:27] s giris yapti.
+[2024-12-30 19:47:04] s giris yapti.
+[2024-12-30 19:47:09] s giris yapti.
+[2024-12-30 19:47:42] s cikis yapti.
+[2024-12-30 19:47:46] s giris yapti.
+[2024-12-30 19:47:49] s cikis yapti.
+[2024-12-30 19:47:56] admin1 giris yapti.
+[2024-12-30 19:59:26] s giris yapti.
+[2024-12-30 19:59:33] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2024-12-30 19:59:35] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2024-12-30 19:59:37] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2024-12-30 19:59:38] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2024-12-30 19:59:40] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2024-12-30 20:08:58] s giris yapti.
+[2024-12-30 20:11:42] s giris yapti.
+[2024-12-30 20:11:49] Baþarýlý: s kullanýcýsý, SOLID.docx dosyasýný yükledi.
+[2024-12-30 20:12:09] s giris yapti.
+[2024-12-30 20:12:26] s giris yapti.
+[2024-12-30 20:12:31] s cikis yapti.
+[2024-12-30 21:01:03] s giris yapti.
+[2025-01-02 13:02:08] s giris yapti.
+[2025-01-02 13:16:22] s giris yapti.
+[2025-01-02 13:16:34] s kullanýcý adý sa olarak deðiþtirildi.
+[2025-01-02 13:16:34] Kullanýcý verileri data/users.json dosyasýna kaydedildi.
+[2025-01-02 13:17:50] s giris yapmayi denedi ancak basarisiz oldu.
+[2025-01-02 13:17:54] sa giris yapti.
+[2025-01-02 13:17:59] sa kullanýcý adý s olarak deðiþtirildi.
+[2025-01-02 13:17:59] Kullanýcý verileri data/users.json dosyasýna kaydedildi.
+[2025-01-02 13:18:02] sa cikis yapti.
+[2025-01-02 13:24:31] s giris yapti.
+[2025-01-02 14:23:59] s giris yapti.
+[2025-01-02 14:24:37] s kullanýcýsý cihan takýmýna atandý.
+[2025-01-02 14:24:37] Kullanýcý verileri data/users.json dosyasýna kaydedildi.
+[2025-01-02 14:24:37] Kullanýcý verileri data/users.json dosyasýna kaydedildi.
+[2025-01-02 14:24:37] cihandemir kullanýcýsý cihan takýmýna user rolüyle atandý.
+[2025-01-02 14:24:50] s giris yapti.
+[2025-01-02 14:25:10] s cikis yapti.
+[2025-01-02 14:25:25] cihandemir giris yapmayi denedi ancak basarisiz oldu.
+[2025-01-02 14:25:31] cihandemir giris yapti.
+[2025-01-02 14:33:10] s giris yapti.
+[2025-01-02 14:33:17] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2025-01-02 14:33:19] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2025-01-02 14:33:20] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2025-01-02 14:33:22] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2025-01-02 14:33:23] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2025-01-02 14:33:25] Hata: s kullanýcýsý þifre sýfýrlama giriþimi baþarýsýz oldu.
+[2025-01-02 14:33:26] s cikis yapti.

@@ -1,0 +1,626 @@
+2024-12-29 11:11:40,245 - Backup started.
+2024-12-29 11:14:07,081 - Backup started.
+2024-12-29 11:15:22,015 - Backup started.
+2024-12-29 11:16:29,807 - Sync started.
+2024-12-29 11:17:17,773 - Backup started.
+2024-12-29 11:18:15,610 - Backup started.
+2024-12-29 11:34:14,481 - Backup started.
+2024-12-29 11:34:14,482 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 11:34:14,504 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\aw.
+2024-12-29 11:34:14,505 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 11:34:14,512 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\harfler.
+2024-12-29 11:34:14,522 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\harfler.
+2024-12-29 11:34:14,522 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 11:34:14,530 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\s.
+2024-12-29 11:34:14,531 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\s.
+2024-12-29 11:34:14,545 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\s.
+2024-12-29 11:34:14,555 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\s.
+2024-12-29 11:34:14,564 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\s.
+2024-12-29 11:34:14,564 - Backup completed.
+2024-12-29 12:13:04,365 - Backup started.
+2024-12-29 12:13:04,366 - Backing up user folder: C:\Users\aciha
+2024-12-29 12:13:50,037 - Backup started.
+2024-12-29 12:13:50,038 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 12:13:50,040 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-13-50\aw.
+2024-12-29 12:13:50,040 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 12:13:50,046 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-13-50\harfler.
+2024-12-29 12:13:50,047 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-13-50\harfler.
+2024-12-29 12:13:50,047 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 12:13:50,048 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-13-50\s.
+2024-12-29 12:13:50,049 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-13-50\s.
+2024-12-29 12:13:50,053 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-13-50\s.
+2024-12-29 12:13:50,054 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-13-50\s.
+2024-12-29 12:13:50,065 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-13-50\s.
+2024-12-29 12:13:50,065 - Backup completed.
+2024-12-29 12:18:30,154 - Backup started.
+2024-12-29 12:18:30,155 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 12:18:30,157 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-18-30\aw.
+2024-12-29 12:18:30,157 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 12:18:30,163 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-18-30\harfler.
+2024-12-29 12:18:30,164 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-18-30\harfler.
+2024-12-29 12:18:30,164 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 12:18:30,165 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-18-30\s.
+2024-12-29 12:18:30,166 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-18-30\s.
+2024-12-29 12:18:30,171 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-18-30\s.
+2024-12-29 12:18:30,172 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-18-30\s.
+2024-12-29 12:18:30,174 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-18-30\s.
+2024-12-29 12:18:30,174 - Backup completed.
+2024-12-29 12:19:06,175 - Backup started.
+2024-12-29 12:19:06,175 - Backup started.
+2024-12-29 12:19:06,175 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 12:19:06,175 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 12:19:06,176 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\aw.
+2024-12-29 12:19:06,176 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\aw.
+2024-12-29 12:19:06,177 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 12:19:06,177 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 12:19:06,182 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\harfler.
+2024-12-29 12:19:06,182 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\harfler.
+2024-12-29 12:19:06,184 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\harfler.
+2024-12-29 12:19:06,184 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\harfler.
+2024-12-29 12:19:06,184 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 12:19:06,184 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 12:19:06,185 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\s.
+2024-12-29 12:19:06,185 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\s.
+2024-12-29 12:19:06,186 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\s.
+2024-12-29 12:19:06,186 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\s.
+2024-12-29 12:19:06,192 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\s.
+2024-12-29 12:19:06,192 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\s.
+2024-12-29 12:19:06,193 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\s.
+2024-12-29 12:19:06,193 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\s.
+2024-12-29 12:19:06,204 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\s.
+2024-12-29 12:19:06,204 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_12-19-06\s.
+2024-12-29 12:19:06,204 - Backup completed.
+2024-12-29 12:19:06,204 - Backup completed.
+2024-12-29 15:35:17,843 - Start Time: 29-12-2024 15:35:17, End Time: 29-12-2024 15:35:17, Operation Code: backup, Status Code: failed, Source Dir: C:\Users\aciha\Desktop\YGI-2\storage, Backup Size: 0 bytes
+2024-12-29 15:38:36,539 - Backup started.
+2024-12-29 15:38:36,540 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 15:38:36,542 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-38-36\aw.
+2024-12-29 15:38:36,543 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 15:38:36,549 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-38-36\harfler.
+2024-12-29 15:38:36,551 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-38-36\harfler.
+2024-12-29 15:38:36,552 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 15:38:36,553 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-38-36\s.
+2024-12-29 15:38:36,554 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-38-36\s.
+2024-12-29 15:38:36,555 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-38-36\s.
+2024-12-29 15:38:36,561 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-38-36\s.
+2024-12-29 15:38:36,573 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-38-36\s.
+2024-12-29 15:38:36,574 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-38-36\s.
+2024-12-29 15:38:36,575 - Backup completed.
+2024-12-29 15:39:12,576 - Backup started.
+2024-12-29 15:39:12,576 - Backup started.
+2024-12-29 15:39:12,577 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 15:39:12,577 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 15:39:12,579 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\aw.
+2024-12-29 15:39:12,579 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\aw.
+2024-12-29 15:39:12,579 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 15:39:12,579 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 15:39:12,584 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\harfler.
+2024-12-29 15:39:12,584 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\harfler.
+2024-12-29 15:39:12,586 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\harfler.
+2024-12-29 15:39:12,586 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\harfler.
+2024-12-29 15:39:12,586 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 15:39:12,586 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 15:39:12,588 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,588 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,589 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,589 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,590 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,590 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,595 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,595 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,596 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,596 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,598 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,598 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-12\s.
+2024-12-29 15:39:12,598 - Backup completed.
+2024-12-29 15:39:12,598 - Backup completed.
+2024-12-29 15:39:48,599 - Backup started.
+2024-12-29 15:39:48,599 - Backup started.
+2024-12-29 15:39:48,599 - Backup started.
+2024-12-29 15:39:48,600 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 15:39:48,600 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 15:39:48,600 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 15:39:48,601 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\aw.
+2024-12-29 15:39:48,601 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\aw.
+2024-12-29 15:39:48,601 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\aw.
+2024-12-29 15:39:48,602 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 15:39:48,602 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 15:39:48,602 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 15:39:48,607 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\harfler.
+2024-12-29 15:39:48,607 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\harfler.
+2024-12-29 15:39:48,607 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\harfler.
+2024-12-29 15:39:48,608 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\harfler.
+2024-12-29 15:39:48,608 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\harfler.
+2024-12-29 15:39:48,608 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\harfler.
+2024-12-29 15:39:48,608 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 15:39:48,608 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 15:39:48,608 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 15:39:48,610 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,610 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,610 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,611 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,611 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,611 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,612 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,612 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,612 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,617 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,617 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,617 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,619 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,619 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,619 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,620 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,620 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,620 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-39-48\s.
+2024-12-29 15:39:48,620 - Backup completed.
+2024-12-29 15:39:48,620 - Backup completed.
+2024-12-29 15:39:48,620 - Backup completed.
+2024-12-29 15:40:40,420 - Backup started.
+2024-12-29 15:40:40,420 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-29 15:40:40,422 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-40-40\aw.
+2024-12-29 15:40:40,422 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-29 15:40:40,428 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-40-40\harfler.
+2024-12-29 15:40:40,429 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-40-40\harfler.
+2024-12-29 15:40:40,429 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-29 15:40:40,431 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-40-40\s.
+2024-12-29 15:40:40,432 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-40-40\s.
+2024-12-29 15:40:40,433 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-40-40\s.
+2024-12-29 15:40:40,437 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-40-40\s.
+2024-12-29 15:40:40,449 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-40-40\s.
+2024-12-29 15:40:40,450 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\29-12-2024_15-40-40\s.
+2024-12-29 15:40:40,450 - Backup completed.
+2024-12-30 14:57:35,994 - Backup started.
+2024-12-30 14:57:35,994 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 14:57:36,004 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-57-35\aw.
+2024-12-30 14:57:36,005 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 14:57:36,017 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-57-35\harfler.
+2024-12-30 14:57:36,027 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-57-35\harfler.
+2024-12-30 14:57:36,027 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 14:57:36,034 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-57-35\s.
+2024-12-30 14:57:36,035 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-57-35\s.
+2024-12-30 14:57:36,036 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-57-35\s.
+2024-12-30 14:57:36,049 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-57-35\s.
+2024-12-30 14:57:36,059 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-57-35\s.
+2024-12-30 14:57:36,067 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-57-35\s.
+2024-12-30 14:57:36,067 - Backup completed.
+2024-12-30 14:58:16,103 - Backup started.
+2024-12-30 14:58:16,104 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 14:58:16,107 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-16\aw.
+2024-12-30 14:58:16,108 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 14:58:16,118 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-16\harfler.
+2024-12-30 14:58:16,119 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-16\harfler.
+2024-12-30 14:58:16,119 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 14:58:16,121 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-16\s.
+2024-12-30 14:58:16,122 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-16\s.
+2024-12-30 14:58:16,123 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-16\s.
+2024-12-30 14:58:16,129 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-16\s.
+2024-12-30 14:58:16,130 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-16\s.
+2024-12-30 14:58:16,131 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-16\s.
+2024-12-30 14:58:16,131 - Backup completed.
+2024-12-30 14:58:52,132 - Backup started.
+2024-12-30 14:58:52,132 - Backup started.
+2024-12-30 14:58:52,133 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 14:58:52,133 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 14:58:52,134 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\aw.
+2024-12-30 14:58:52,134 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\aw.
+2024-12-30 14:58:52,134 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 14:58:52,134 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 14:58:52,139 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\harfler.
+2024-12-30 14:58:52,139 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\harfler.
+2024-12-30 14:58:52,140 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\harfler.
+2024-12-30 14:58:52,140 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\harfler.
+2024-12-30 14:58:52,140 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 14:58:52,140 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 14:58:52,142 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,142 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,143 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,143 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,144 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,144 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,148 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,148 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,149 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,149 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,151 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,151 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_14-58-52\s.
+2024-12-30 14:58:52,151 - Backup completed.
+2024-12-30 14:58:52,151 - Backup completed.
+2024-12-30 15:00:53,966 - Backup started.
+2024-12-30 15:00:53,967 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 15:00:53,969 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-00-53\aw.
+2024-12-30 15:00:53,969 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 15:00:53,986 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-00-53\harfler.
+2024-12-30 15:00:53,988 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-00-53\harfler.
+2024-12-30 15:00:53,988 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 15:00:53,991 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-00-53\s.
+2024-12-30 15:00:53,993 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-00-53\s.
+2024-12-30 15:00:53,994 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-00-53\s.
+2024-12-30 15:00:54,000 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-00-53\s.
+2024-12-30 15:00:54,001 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-00-53\s.
+2024-12-30 15:00:54,003 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-00-53\s.
+2024-12-30 15:00:54,003 - Backup completed.
+2024-12-30 15:13:01,347 - Backup started.
+2024-12-30 15:13:01,348 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 15:13:01,351 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-13-01\aw.
+2024-12-30 15:13:01,351 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 15:13:01,364 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-13-01\harfler.
+2024-12-30 15:13:01,366 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-13-01\harfler.
+2024-12-30 15:13:01,367 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 15:13:01,368 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-13-01\s.
+2024-12-30 15:13:01,370 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-13-01\s.
+2024-12-30 15:13:01,372 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-13-01\s.
+2024-12-30 15:13:01,383 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-13-01\s.
+2024-12-30 15:13:01,384 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-13-01\s.
+2024-12-30 15:13:01,386 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_15-13-01\s.
+2024-12-30 15:13:01,386 - Backup completed.
+2024-12-30 19:40:18,813 - Backup started.
+2024-12-30 19:40:18,814 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 19:40:18,831 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-40-18\aw.
+2024-12-30 19:40:18,831 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 19:40:18,847 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-40-18\harfler.
+2024-12-30 19:40:18,859 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-40-18\harfler.
+2024-12-30 19:40:18,859 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 19:40:18,868 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-40-18\s.
+2024-12-30 19:40:18,870 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-40-18\s.
+2024-12-30 19:40:18,871 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-40-18\s.
+2024-12-30 19:40:18,887 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-40-18\s.
+2024-12-30 19:40:18,900 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-40-18\s.
+2024-12-30 19:40:18,912 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-40-18\s.
+2024-12-30 19:40:18,912 - Backup completed.
+2024-12-30 19:41:41,247 - Backup started.
+2024-12-30 19:41:41,248 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 19:41:41,251 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-41-41\aw.
+2024-12-30 19:41:41,251 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 19:41:41,260 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-41-41\harfler.
+2024-12-30 19:41:41,261 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-41-41\harfler.
+2024-12-30 19:41:41,262 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 19:41:41,263 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-41-41\s.
+2024-12-30 19:41:41,264 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-41-41\s.
+2024-12-30 19:41:41,265 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-41-41\s.
+2024-12-30 19:41:41,270 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-41-41\s.
+2024-12-30 19:41:41,281 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-41-41\s.
+2024-12-30 19:41:41,282 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-41-41\s.
+2024-12-30 19:41:41,282 - Backup completed.
+2024-12-30 19:42:00,861 - Backup started.
+2024-12-30 19:42:00,862 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 19:42:00,866 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-00\aw.
+2024-12-30 19:42:00,866 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 19:42:00,876 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-00\harfler.
+2024-12-30 19:42:00,879 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-00\harfler.
+2024-12-30 19:42:00,879 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 19:42:00,881 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-00\s.
+2024-12-30 19:42:00,883 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-00\s.
+2024-12-30 19:42:00,885 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-00\s.
+2024-12-30 19:42:00,892 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-00\s.
+2024-12-30 19:42:00,894 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-00\s.
+2024-12-30 19:42:00,896 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-00\s.
+2024-12-30 19:42:00,896 - Backup completed.
+2024-12-30 19:42:29,879 - Backup started.
+2024-12-30 19:42:29,880 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 19:42:29,882 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-29\aw.
+2024-12-30 19:42:29,883 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 19:42:29,894 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-29\harfler.
+2024-12-30 19:42:29,896 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-29\harfler.
+2024-12-30 19:42:29,897 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 19:42:29,899 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-29\s.
+2024-12-30 19:42:29,900 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-29\s.
+2024-12-30 19:42:29,901 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-29\s.
+2024-12-30 19:42:29,911 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-29\s.
+2024-12-30 19:42:29,922 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-29\s.
+2024-12-30 19:42:29,924 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-42-29\s.
+2024-12-30 19:42:29,924 - Backup completed.
+2024-12-30 19:46:32,809 - Backup started.
+2024-12-30 19:46:32,810 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 19:46:32,813 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-46-32\aw.
+2024-12-30 19:46:32,813 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 19:46:32,826 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-46-32\harfler.
+2024-12-30 19:46:32,827 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-46-32\harfler.
+2024-12-30 19:46:32,828 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 19:46:32,831 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-46-32\s.
+2024-12-30 19:46:32,832 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-46-32\s.
+2024-12-30 19:46:32,835 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-46-32\s.
+2024-12-30 19:46:32,842 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-46-32\s.
+2024-12-30 19:46:32,854 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-46-32\s.
+2024-12-30 19:46:32,856 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-46-32\s.
+2024-12-30 19:46:32,856 - Backup completed.
+2024-12-30 19:50:30,040 - Backup started.
+2024-12-30 19:50:30,043 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 19:50:30,080 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-50-30\aw.
+2024-12-30 19:50:30,080 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 19:50:30,095 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-50-30\harfler.
+2024-12-30 19:50:30,125 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-50-30\harfler.
+2024-12-30 19:50:30,125 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 19:50:30,133 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-50-30\s.
+2024-12-30 19:50:30,134 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-50-30\s.
+2024-12-30 19:50:30,135 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-50-30\s.
+2024-12-30 19:50:30,147 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-50-30\s.
+2024-12-30 19:50:30,181 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-50-30\s.
+2024-12-30 19:50:30,190 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_19-50-30\s.
+2024-12-30 19:50:30,190 - Backup completed.
+2024-12-30 20:14:09,680 - Backup started.
+2024-12-30 20:14:09,681 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 20:14:09,683 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-09\aw.
+2024-12-30 20:14:09,683 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 20:14:09,688 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-09\harfler.
+2024-12-30 20:14:09,715 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-09\harfler.
+2024-12-30 20:14:09,716 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 20:14:09,717 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-09\s.
+2024-12-30 20:14:09,718 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-09\s.
+2024-12-30 20:14:09,718 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-09\s.
+2024-12-30 20:14:09,723 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-09\s.
+2024-12-30 20:14:09,749 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-09\s.
+2024-12-30 20:14:09,750 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-09\s.
+2024-12-30 20:14:09,750 - Backup completed.
+2024-12-30 20:14:34,687 - Backup started.
+2024-12-30 20:14:34,689 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 20:14:34,692 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-34\aw.
+2024-12-30 20:14:34,692 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 20:14:34,709 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-34\harfler.
+2024-12-30 20:14:34,710 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-34\harfler.
+2024-12-30 20:14:34,710 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 20:14:34,712 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-34\s.
+2024-12-30 20:14:34,714 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-34\s.
+2024-12-30 20:14:34,716 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-34\s.
+2024-12-30 20:14:34,722 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-34\s.
+2024-12-30 20:14:34,733 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-34\s.
+2024-12-30 20:14:34,735 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-14-34\s.
+2024-12-30 20:14:34,735 - Backup completed.
+2024-12-30 20:15:10,736 - Backup started.
+2024-12-30 20:15:10,736 - Backup started.
+2024-12-30 20:15:10,736 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 20:15:10,736 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 20:15:10,738 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\aw.
+2024-12-30 20:15:10,738 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\aw.
+2024-12-30 20:15:10,738 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 20:15:10,738 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 20:15:10,743 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\harfler.
+2024-12-30 20:15:10,743 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\harfler.
+2024-12-30 20:15:10,744 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\harfler.
+2024-12-30 20:15:10,744 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\harfler.
+2024-12-30 20:15:10,744 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 20:15:10,744 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 20:15:10,745 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,745 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,746 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,746 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,746 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,746 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,751 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,751 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,752 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,752 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,753 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,753 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-15-10\s.
+2024-12-30 20:15:10,753 - Backup completed.
+2024-12-30 20:15:10,753 - Backup completed.
+2024-12-30 20:19:31,609 - Backup started.
+2024-12-30 20:21:17,220 - Backup started.
+2024-12-30 20:21:17,220 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 20:21:38,383 - Backup started.
+2024-12-30 20:21:38,385 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 20:21:38,387 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-21-38\aw.
+2024-12-30 20:21:38,387 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 20:21:38,411 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-21-38\harfler.
+2024-12-30 20:21:38,437 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-21-38\harfler.
+2024-12-30 20:21:38,437 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 20:21:38,445 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-21-38\s.
+2024-12-30 20:21:38,447 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-21-38\s.
+2024-12-30 20:21:38,448 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-21-38\s.
+2024-12-30 20:21:38,463 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-21-38\s.
+2024-12-30 20:21:38,489 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-21-38\s.
+2024-12-30 20:21:38,498 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-21-38\s.
+2024-12-30 20:21:38,498 - Backup completed.
+2024-12-30 20:22:14,499 - Backup started.
+2024-12-30 20:22:14,499 - Backup started.
+2024-12-30 20:22:14,499 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 20:22:14,499 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 20:22:14,501 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\aw.
+2024-12-30 20:22:14,501 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\aw.
+2024-12-30 20:22:14,501 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 20:22:14,501 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 20:22:14,507 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\harfler.
+2024-12-30 20:22:14,507 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\harfler.
+2024-12-30 20:22:14,508 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\harfler.
+2024-12-30 20:22:14,508 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\harfler.
+2024-12-30 20:22:14,508 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 20:22:14,508 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 20:22:14,510 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,510 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,512 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,512 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,513 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,513 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,518 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,518 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,520 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,520 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,521 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,521 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-22-14\s.
+2024-12-30 20:22:14,521 - Backup completed.
+2024-12-30 20:22:14,521 - Backup completed.
+2024-12-30 20:29:51,352 - Backup started.
+2024-12-30 20:32:26,155 - Backup started.
+2024-12-30 20:33:35,331 - Backup started.
+2024-12-30 20:47:59,140 - Backup started.
+2024-12-30 20:47:59,141 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2024-12-30 20:47:59,142 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-47-59\aw.
+2024-12-30 20:47:59,143 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2024-12-30 20:47:59,148 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-47-59\harfler.
+2024-12-30 20:47:59,150 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-47-59\harfler.
+2024-12-30 20:47:59,150 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2024-12-30 20:47:59,152 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-47-59\s.
+2024-12-30 20:47:59,152 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-47-59\s.
+2024-12-30 20:47:59,154 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-47-59\s.
+2024-12-30 20:47:59,159 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-47-59\s.
+2024-12-30 20:47:59,170 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-47-59\s.
+2024-12-30 20:47:59,172 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\30-12-2024_20-47-59\s.
+2024-12-30 20:47:59,172 - Backup completed.
+2025-01-01 17:58:42,912 - Backup started.
+2025-01-01 17:58:42,913 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-01 17:58:42,915 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\01-01-2025_17-58-42\aw.
+2025-01-01 17:58:42,915 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-01 17:58:42,921 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\01-01-2025_17-58-42\harfler.
+2025-01-01 17:58:42,922 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\01-01-2025_17-58-42\harfler.
+2025-01-01 17:58:42,922 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-01 17:58:42,923 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\01-01-2025_17-58-42\s.
+2025-01-01 17:58:42,924 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\01-01-2025_17-58-42\s.
+2025-01-01 17:58:42,925 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\01-01-2025_17-58-42\s.
+2025-01-01 17:58:42,930 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\01-01-2025_17-58-42\s.
+2025-01-01 17:58:42,931 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\01-01-2025_17-58-42\s.
+2025-01-01 17:58:42,932 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\01-01-2025_17-58-42\s.
+2025-01-01 17:58:42,932 - Backup completed.
+2025-01-02 12:46:56,673 - Backup started.
+2025-01-02 12:46:56,685 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:46:56,687 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-46-56\aw.
+2025-01-02 12:46:56,687 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:46:56,698 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-46-56\harfler.
+2025-01-02 12:46:56,699 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-46-56\harfler.
+2025-01-02 12:46:56,699 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:46:56,701 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-46-56\s.
+2025-01-02 12:46:56,702 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-46-56\s.
+2025-01-02 12:46:56,704 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-46-56\s.
+2025-01-02 12:46:56,714 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-46-56\s.
+2025-01-02 12:46:56,715 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-46-56\s.
+2025-01-02 12:46:56,717 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-46-56\s.
+2025-01-02 12:46:56,718 - Backup completed.
+2025-01-02 12:54:05,158 - Backup started.
+2025-01-02 12:54:05,159 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:54:05,173 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-05\aw.
+2025-01-02 12:54:05,173 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:54:05,187 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-05\harfler.
+2025-01-02 12:54:05,199 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-05\harfler.
+2025-01-02 12:54:05,199 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:54:05,207 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-05\s.
+2025-01-02 12:54:05,208 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-05\s.
+2025-01-02 12:54:05,209 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-05\s.
+2025-01-02 12:54:05,220 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-05\s.
+2025-01-02 12:54:05,231 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-05\s.
+2025-01-02 12:54:05,240 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-05\s.
+2025-01-02 12:54:05,240 - Backup completed.
+2025-01-02 12:54:41,241 - Backup started.
+2025-01-02 12:54:41,241 - Backup started.
+2025-01-02 12:54:41,241 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:54:41,241 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:54:41,244 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\aw.
+2025-01-02 12:54:41,244 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\aw.
+2025-01-02 12:54:41,244 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:54:41,244 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:54:41,264 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\harfler.
+2025-01-02 12:54:41,264 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\harfler.
+2025-01-02 12:54:41,266 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\harfler.
+2025-01-02 12:54:41,266 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\harfler.
+2025-01-02 12:54:41,266 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:54:41,266 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:54:41,268 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,268 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,270 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,270 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,271 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,271 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,278 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,278 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,280 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,280 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,283 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,283 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-54-41\s.
+2025-01-02 12:54:41,283 - Backup completed.
+2025-01-02 12:54:41,283 - Backup completed.
+2025-01-02 12:58:26,036 - Backup started.
+2025-01-02 12:58:26,038 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:58:26,041 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-26\aw.
+2025-01-02 12:58:26,041 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:58:26,049 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-26\harfler.
+2025-01-02 12:58:26,051 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-26\harfler.
+2025-01-02 12:58:26,051 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:58:26,053 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-26\s.
+2025-01-02 12:58:26,055 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-26\s.
+2025-01-02 12:58:26,056 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-26\s.
+2025-01-02 12:58:26,065 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-26\s.
+2025-01-02 12:58:26,067 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-26\s.
+2025-01-02 12:58:26,069 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-26\s.
+2025-01-02 12:58:26,069 - Backup completed.
+2025-01-02 12:58:55,868 - Backup started.
+2025-01-02 12:58:55,869 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:58:55,871 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-55\aw.
+2025-01-02 12:58:55,872 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:58:55,879 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-55\harfler.
+2025-01-02 12:58:55,881 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-55\harfler.
+2025-01-02 12:58:55,881 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:58:55,893 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-55\s.
+2025-01-02 12:58:55,895 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-55\s.
+2025-01-02 12:58:55,896 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-55\s.
+2025-01-02 12:58:55,903 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-55\s.
+2025-01-02 12:58:55,906 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-55\s.
+2025-01-02 12:58:55,907 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-58-55\s.
+2025-01-02 12:58:55,907 - Backup completed.
+2025-01-02 12:59:00,908 - Backup started.
+2025-01-02 12:59:00,908 - Backup started.
+2025-01-02 12:59:00,919 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:59:00,919 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:59:00,923 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\aw.
+2025-01-02 12:59:00,923 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\aw.
+2025-01-02 12:59:00,923 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:59:00,923 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:59:00,934 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\harfler.
+2025-01-02 12:59:00,934 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\harfler.
+2025-01-02 12:59:00,938 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\harfler.
+2025-01-02 12:59:00,938 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\harfler.
+2025-01-02 12:59:00,938 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:59:00,938 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:59:00,941 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,941 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,944 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,944 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,946 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,946 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,956 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,956 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,959 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,959 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,961 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,961 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-00\s.
+2025-01-02 12:59:00,961 - Backup completed.
+2025-01-02 12:59:00,961 - Backup completed.
+2025-01-02 12:59:05,962 - Backup started.
+2025-01-02 12:59:05,962 - Backup started.
+2025-01-02 12:59:05,962 - Backup started.
+2025-01-02 12:59:05,964 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:59:05,964 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:59:05,964 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\aw
+2025-01-02 12:59:05,967 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\aw.
+2025-01-02 12:59:05,967 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\aw.
+2025-01-02 12:59:05,967 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\aw.
+2025-01-02 12:59:05,967 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:59:05,967 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:59:05,967 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\harfler
+2025-01-02 12:59:05,987 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\harfler.
+2025-01-02 12:59:05,987 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\harfler.
+2025-01-02 12:59:05,987 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\harfler.
+2025-01-02 12:59:05,989 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\harfler.
+2025-01-02 12:59:05,989 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\harfler.
+2025-01-02 12:59:05,989 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\harfler.
+2025-01-02 12:59:05,989 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:59:05,989 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:59:05,989 - Backing up user folder: C:\Users\aciha\Desktop\YGI-2\storage\s
+2025-01-02 12:59:05,991 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:05,991 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:05,991 - File .gitignore backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:05,995 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:05,995 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:05,995 - File denemme.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:05,998 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:05,998 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:05,998 - File helloworld.txt backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:06,012 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:06,012 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:06,012 - File sa.mp4 backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:06,017 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:06,017 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:06,017 - File SOLID.docx backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:06,020 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:06,020 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:06,020 - File SQL_tables.sql backed up to C:\Users\aciha\Desktop\YGI-2\backups\02-01-2025_12-59-05\s.
+2025-01-02 12:59:06,020 - Backup completed.
+2025-01-02 12:59:06,020 - Backup completed.
+2025-01-02 12:59:06,020 - Backup completed.
